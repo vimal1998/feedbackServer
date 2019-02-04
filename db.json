@@ -1,6 +1,25 @@
 {
     "getConfig":{
-        "className":"mail"
+        "username":"vimal",
+        "feedbackComponentDivId":"fb-div",
+        "feedbackComponentClassname":"fb-class",
+        "feedbackButtonId":"fb-btn",
+        "feedbackModelDivId":"fb-model-div",
+        "feedbackModelClassname":"fb-model-class",
+        "feedbackAtributeList":[
+            {
+                "atributeName":"Organization",
+                "atributeId":"org"
+            },
+            {
+                "atributeName":"Mediclaim",
+                "atributeId":"med"
+            },
+            {
+                "atributeName":"Attendence",
+                "atributeId":"atd"
+            }
+        ]
     }
 }
 
