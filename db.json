@@ -1,8 +1,6 @@
 {
     "getConfig":{
         "username":"vimal",
-        "feedbackComponentDivId":"fb-div",
-        "feedbackComponentClassname":"fb-class",
         "feedbackButtonId":"fb-btn",
         "feedbackModelDivId":"fb-model-div",
         "feedbackModelClassname":"fb-model-class",
@@ -20,6 +18,9 @@
                 "atributeId":"atd"
             }
         ]
+    },
+    "saveFeedback":{
+        
     }
 }
 
