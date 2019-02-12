@@ -20,7 +20,7 @@
         "feedbackButtonStyle":[
             {
                 "styleName":"background-color",
-                "style":""
+                "style":"cornflowerblue"
             },
             {
                 "styleName":"font-size",
