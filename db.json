@@ -16,6 +16,24 @@
                 "atributeName":"Attendence",
                 "atributeId":"atd"
             }
+        ],
+        "feedbackButtonStyle":[
+            {
+                "styleName":"backgroundColor",
+                "style":"cornflowerblue"
+            },
+            {
+                "styleName":"fontSize",
+                "style":"18px"
+            },
+            {
+                "styleName":"borderRadius",
+                "style":"25%"
+            },
+            {
+                "styleName":"cssFloat",
+                "style":"right"
+            }
         ]
     },
     "saveFeedback":{
