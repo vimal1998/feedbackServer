@@ -19,19 +19,19 @@
         ],
         "feedbackButtonStyle":[
             {
-                "styleName":"backgroundColor",
-                "style":"cornflowerblue"
+                "styleName":"background-color",
+                "style":""
             },
             {
-                "styleName":"fontSize",
+                "styleName":"font-size",
                 "style":"18px"
             },
             {
-                "styleName":"borderRadius",
+                "styleName":"border-radius",
                 "style":"25%"
             },
             {
-                "styleName":"cssFloat",
+                "styleName":"float",
                 "style":"right"
             }
         ]
