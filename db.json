@@ -1,9 +1,8 @@
 {
     "getConfig":{
-        "username":"vimal",
-        "feedbackButtonId":"fb-btn",
-        "feedbackModelDivId":"fb-model-div",
-        "feedbackModelClassname":"fb-model-class",
+        "userMailId":"vimalnath.a@zohocorp.com",
+        "feedbackComponentId":"fb-btn",
+        "feedbackModalId":"fb-modal",
         "feedbackAtributeList":[
             {
                 "atributeName":"Organization",
