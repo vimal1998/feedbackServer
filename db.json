@@ -3,18 +3,18 @@
         "userMailId":"vimalnath.a@zohocorp.com",
         "feedbackComponentId":"fb-btn",
         "feedbackModalId":"fb-modal",
-        "feedbackAtributeList":[
+        "feedbackAttributeList":[
             {
-                "atributeName":"Organization",
-                "atributeId":"org"
+                "attributeName":"Organization",
+                "attributeId":"org"
             },
             {
-                "atributeName":"Mediclaim",
-                "atributeId":"med"
+                "attributeName":"Mediclaim",
+                "attributeId":"med"
             },
             {
-                "atributeName":"Attendence",
-                "atributeId":"atd"
+                "attributeName":"Attendence",
+                "attributeId":"atd"
             }
         ],
         "feedbackPostUrl":"https://my-json-server.typicode.com/vimal1998/feedbackServer/saveFeedback",
