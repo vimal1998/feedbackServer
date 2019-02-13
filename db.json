@@ -17,24 +17,9 @@
                 "atributeId":"atd"
             }
         ],
-        "feedbackButtonStyle":[
-            {
-                "styleName":"background-color",
-                "style":"cornflowerblue"
-            },
-            {
-                "styleName":"font-size",
-                "style":"18px"
-            },
-            {
-                "styleName":"border-radius",
-                "style":"25%"
-            },
-            {
-                "styleName":"float",
-                "style":"right"
-            }
-        ]
+        "feedbackPostUrl":"https://my-json-server.typicode.com/vimal1998/feedbackServer/saveFeedback",
+        "feedbackGetUrl":"https://my-json-server.typicode.com/vimal1998/feedbackServer/sendFeedback"
+        
     },
     "saveFeedback":{
         "message":"feedback received"
