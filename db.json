@@ -1,24 +1,45 @@
 {
     "getConfig":{
         "userMailId":"vimalnath.a@zohocorp.com",
-        "feedbackComponentId":"fb-btn",
-        "feedbackModalId":"fb-modal",
+        "feedbackComponent":{
+            "feedbackElement":{
+                "feedbackSourceElement":"fb-btn",
+                "feedbackElementType":"button",
+                "feedbackElementValue":"Feedback"
+            },
+            "feedbackModal":{
+                "feedbackSourceElement":"fb-modal",
+                "feedbackElementType":"div",
+                "feedbackElementValue":"Feedback Modal"
+            }
+        },
         "feedbackAttributeList":[
             {
                 "attributeName":"Organization",
-                "attributeId":"org"
+                "attributeHighlight":true,
+                "attributeSelector":"org"
             },
             {
                 "attributeName":"Mediclaim",
-                "attributeId":"med"
+                "attributeHighlight":true,
+                "attributeSelector":"med"
             },
             {
                 "attributeName":"Attendence",
-                "attributeId":"atd"
+                "attributeHighlight":true,
+                "attributeSelector":"atd"
             }
         ],
-        "feedbackPostUrl":"https://my-json-server.typicode.com/vimal1998/feedbackServer/saveFeedback",
-        "feedbackGetUrl":"https://my-json-server.typicode.com/vimal1998/feedbackServer/sendFeedback"
+        "feedbackPost":{
+            "url":"https://my-json-server.typicode.com/vimal1998/feedbackServer/saveFeedback",
+            "successMessage":"Feedback Successfully Saved",
+            "failureMessage":"Fail to send Feedback"
+        },
+        "feedbackGet":{
+            "url":"https://my-json-server.typicode.com/vimal1998/feedbackServer/sendFeedback",
+            "successMessage":"Successfully got the Feedback ",
+            "failureMessage":"Fail to get Feedback"
+        }
         
     },
     "saveFeedback":{
