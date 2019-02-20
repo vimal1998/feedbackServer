@@ -17,19 +17,20 @@
             {
                 "attributeName":"Organization",
                 "attributeHighlight":true,
-                "attributeSelector":"org"
+                "attributeId":"org"
             },
             {
                 "attributeName":"Mediclaim",
                 "attributeHighlight":true,
-                "attributeSelector":"med"
+                "attributeId":"med"
             },
             {
                 "attributeName":"Attendence",
                 "attributeHighlight":true,
-                "attributeSelector":"atd"
+                "attributeId":"atd"
             }
         ],
+        "AttributeSelector":"Attribute",
         "feedbackPost":{
             "url":"https://my-json-server.typicode.com/vimal1998/feedbackServer/saveFeedback",
             "successMessage":"Feedback Successfully Saved",
