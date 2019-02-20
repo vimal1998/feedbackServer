@@ -30,7 +30,7 @@
                 "attributeId":"atd"
             }
         ],
-        "AttributeSelector":"Attribute",
+        "AttributeSelector":"attribute",
         "feedbackPost":{
             "url":"https://my-json-server.typicode.com/vimal1998/feedbackServer/saveFeedback",
             "successMessage":"Feedback Successfully Saved",
