@@ -1,50 +1,32 @@
 {
-    "getConfig":{
-        "userMailId":"vimalnath.a@zohocorp.com",
-        "feedbackComponent":{
-            "feedbackElement":{
-                "feedbackSourceElement":"fb-btn",
-                "feedbackElementType":"button",
-                "feedbackElementValue":"Feedback"
-            },
-            "feedbackModal":{
-                "feedbackSourceElement":"fb-modal",
-                "feedbackElementType":"div",
-                "feedbackElementValue":"Feedback Modal"
-            }
+    "boards": [
+        {
+            "identifier": "NTJV",
+            "id": "0e9316f0-6d77-430e-b97e-f820240790b3",
+            "name": "NTJV",
+            "url": "https://www.google.com/",
+            "created_on": "2022-10-12T20:00:00.000+00:00",
+            "modified_on": "2022-10-12T20:00:00.000+00:00",
+            "created_by": "0e9316f0-6d77-430e-b97e-f820240790b2"
         },
-        "feedbackAttributeList":[
-            {
-                "attributeName":"Organization",
-                "attributeHighlight":true,
-                "attributeId":"org"
-            },
-            {
-                "attributeName":"Mediclaim",
-                "attributeHighlight":true,
-                "attributeId":"med"
-            },
-            {
-                "attributeName":"Attendence",
-                "attributeHighlight":true,
-                "attributeId":"atd"
-            }
-        ],
-        "AttributeSelector":"attribute",
-        "feedbackPost":{
-            "url":"https://my-json-server.typicode.com/vimal1998/feedbackServer/saveFeedback",
-            "successMessage":"Feedback Successfully Saved",
-            "failureMessage":"Fail to send Feedback"
+        {
+            "identifier": "Pospac",
+            "id": "0e9316f0-6d77-430e-b97e-f820240790b3",
+            "name": "Pospac",
+            "url": "https://www.google.com/",
+            "created_on": "2022-10-12T20:00:00.000+00:00",
+            "modified_on": "2022-10-12T20:00:00.000+00:00",
+            "created_by": "0e9316f0-6d77-430e-b97e-f820240790b2"
         },
-        "feedbackGet":{
-            "url":"https://my-json-server.typicode.com/vimal1998/feedbackServer/sendFeedback",
-            "successMessage":"Successfully got the Feedback ",
-            "failureMessage":"Fail to get Feedback"
+        {
+            "identifier": "GuidEx",
+            "id": "0e9316f0-6d77-430e-b97e-f820240790b3",
+            "name": "GuidEx",
+            "url": "https://www.google.com/",
+            "created_on": "2022-10-12T20:00:00.000+00:00",
+            "modified_on": "2022-10-12T20:00:00.000+00:00",
+            "created_by": "0e9316f0-6d77-430e-b97e-f820240790b2"
         }
-        
-    },
-    "saveFeedback":{
-        "message":"feedback received"
-    }
+    ]
 }
 
