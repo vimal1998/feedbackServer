@@ -36,52 +36,5 @@
       "modifiedOn": "2022-10-12T20:00:00.000+00:00",
       "createdBy": "0e9316f0-6d77-430e-b97e-f820240790b2"
     }
-  ],
-  "feedbacks": [
-    {
-      "id": "0e9316f0-6d77-430e-b97e-f820240790b3",
-      "title": "Need Keyboard actions",
-      "description": "The keyboard shortcuts are not accessible, ned more keyboard shotcuts that can improve the feasibility of the app. Further keyboard actions can also be included in the application",
-      "createdBy": "0e9316f0-6d77-430e-b97e-f82024079056",
-      "createdOn": "2022-10-12T20:00:00.000+00:00",
-      "modifiedOn": "2022-10-12T20:00:00.000+00:00",
-      "isPublic": true,
-      "category": "Feature requirement",
-      "upvotes": 10,
-      "downvotes": 11,
-      "attachments": null,
-      "commentId": "0e9316f0-6d77-430e-b97e-f82024079044",
-      "isJiraRaised": false
-    },
-    {
-      "id": "0e9316f0-6d77-430e-b97e-f820240790b3",
-      "title": "Need Keyboard actions",
-      "description": "The keyboard shortcuts are not accessible, ned more keyboard shotcuts that can improve the feasibility of the app. Further keyboard actions can also be included in the application",
-      "createdBy": "0e9316f0-6d77-430e-b97e-f82024079056",
-      "createdOn": "2022-10-12T20:00:00.000+00:00",
-      "modifiedOn": "2022-10-12T20:00:00.000+00:00",
-      "isPublic": false,
-      "category": "Feature requirement",
-      "upvotes": 10,
-      "downvotes": 11,
-      "attachments": null,
-      "commentId": "0e9316f0-6d77-430e-b97e-f82024079044",
-      "isJiraRaised": true
-    },
-    {
-      "id": "0e9316f0-6d77-430e-b97e-f820240790b3",
-      "title": "Need Keyboard actions",
-      "description": "The keyboard shortcuts are not accessible, ned more keyboard shotcuts that can improve the feasibility of the app. Further keyboard actions can also be included in the application",
-      "createdBy": null,
-      "createdOn": "2022-10-12T20:00:00.000+00:00",
-      "modifiedOn": "2022-10-12T20:00:00.000+00:00",
-      "isPublic": true,
-      "category": "Feature requirement",
-      "upvotes": 10,
-      "downvotes": 11,
-      "attachments": null,
-      "commentId": "0e9316f0-6d77-430e-b97e-f82024079044",
-      "isJiraRaised": true
-    }
   ]
 }
