@@ -51,7 +51,7 @@
             "downvotes": 11,
             "attachments": null,
             "commentId": "0e9316f0-6d77-430e-b97e-f82024079044",
-            "isJiraRaised": false,
+            "isJiraRaised": false
         },
         {
             "id": "0e9316f0-6d77-430e-b97e-f820240790b3",
@@ -66,7 +66,7 @@
             "downvotes": 11,
             "attachments": null,
             "commentId": "0e9316f0-6d77-430e-b97e-f82024079044",
-            "isJiraRaised": true,
+            "isJiraRaised": true
         },
         {
             "id": "0e9316f0-6d77-430e-b97e-f820240790b3",
@@ -81,7 +81,7 @@
             "downvotes": 11,
             "attachments": null,
             "commentId": "0e9316f0-6d77-430e-b97e-f82024079044",
-            "isJiraRaised": true,
+            "isJiraRaised": true
         },
     ],
 }
