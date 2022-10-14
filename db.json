@@ -78,7 +78,7 @@
 "id": "0e9316f0-6d77-430e-b97e-f820240790b3",
 "title": "Bug",
 "description": "There is a bug while I'm trying to open iOS swift course only first few lectures are getting opened. After that only loading indicator comes up and nothing happened. Everytime when I open the app and click on iOS course it is get started from first chapter only even if I hae completed more than 200 on my laptop. Please fix it.",
-"createdBy": "null",
+"createdBy": null,
 "createdOn": "2022-10-12T20:00:00.000+00:00",
 "modifiedOn": "2022-10-12T20:00:00.000+00:00",
 "isPublic": true,
